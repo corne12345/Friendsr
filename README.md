@@ -6,6 +6,7 @@ profile. To do this, one must click on a profile in the grid view to enter a pro
 can be used to rate the profile. 
 The app works in both landscape and portrait mode.
 
+
 ![alt text](https://github.com/corne12345/Friendsr/blob/master/doc/Screenshot_20181114-100954_Friendsr.jpg)
 
 _Figure 1: Grid page in portrait mode_
@@ -21,3 +22,8 @@ _Figure 3: Profile page in portrait mode_
 ![alt text](https://github.com/corne12345/Friendsr/blob/master/doc/Screenshot_20181114-101011_Friendsr.jpg)
 
 _Figure 4: Profile page in landscape mode
+
+
+## Disclaimer
+This app is a work in progress; the layout is not yet final and code optimalisation will take place later on.
+The app is a study project.
