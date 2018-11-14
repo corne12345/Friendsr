@@ -10,7 +10,7 @@ The app works in both landscape and portrait mode.
 
 _Figure 1: Grid page in portrait mode_
 
-![alt text](https://github.com/corne12345/Friendsr/blob/master/doc/Screenshot_20181114-101003_Friensr.jpg)
+![alt text](https://github.com/corne12345/Friendsr/blob/master/doc/Screenshot_20181114-101003_Friendsr.jpg)
 
 _Figure 2: Grid page in landscape mode_
 
