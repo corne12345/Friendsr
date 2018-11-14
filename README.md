@@ -7,13 +7,17 @@ can be used to rate the profile.
 The app works in both landscape and portrait mode.
 
 ![alt text](https://github.com/corne12345/Friendsr/blob/master/doc/Screenshot_20181114-100954_Friendsr.jpg)
+
 _Figure 1: Grid page in portrait mode_
 
 ![alt text](https://github.com/corne12345/Friendsr/blob/master/doc/Screenshot_20181114-101003_Friensr.jpg)
+
 _Figure 2: Grid page in landscape mode_
 
 ![alt text](https://github.com/corne12345/Friendsr/blob/master/doc/Screenshot_20181114-100941_Friendsr.jpg)
+
 _Figure 3: Profile page in portrait mode_
 
 ![alt text](https://github.com/corne12345/Friendsr/blob/master/doc/Screenshot_20181114-101011_Friendsr.jpg)
+
 _Figure 4: Profile page in landscape mode
