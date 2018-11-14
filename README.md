@@ -21,7 +21,7 @@ _Figure 3: Profile page in portrait mode_
 
 ![alt text](https://github.com/corne12345/Friendsr/blob/master/doc/Screenshot_20181114-101011_Friendsr.jpg)
 
-_Figure 4: Profile page in landscape mode
+_Figure 4: Profile page in landscape mode_
 
 
 ## Disclaimer
