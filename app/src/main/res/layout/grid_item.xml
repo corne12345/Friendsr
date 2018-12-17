@@ -4,6 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
+    android:layout_margin="6dp"
+    android:background="#a9cad6"
     android:gravity="center"
     android:orientation="vertical"
     android:paddingLeft="6dp"
@@ -13,14 +15,17 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:paddingTop="30dp"
         android:text="TextView"
-        android:textSize="16sp" />
+        android:textSize="16sp"
+        android:textStyle="bold" />
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
         android:layout_gravity="center"
+        android:padding="12dp"
         app:srcCompat="@drawable/arya" />
 
 </LinearLayout>

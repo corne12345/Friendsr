@@ -26,11 +26,11 @@
     <GridView
         android:id="@+id/gridView"
         android:layout_width="wrap_content"
-        android:layout_height="620dp"
+        android:layout_height="270dp"
         android:layout_weight="0"
         android:background="@android:color/black"
         android:horizontalSpacing="3dp"
-        android:numColumns="3"
+        android:numColumns="5"
         android:stretchMode="columnWidth"
         android:verticalSpacing="3dp" />
 
